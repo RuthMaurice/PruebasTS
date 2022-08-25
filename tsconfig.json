@@ -1,0 +1,10 @@
+/*La configuracion minima de TS es la siguiente
+al ejecutar tsc -w quedara en modo pendiente de
+modificacion */
+
+{
+  "compilerOptions":{
+    "rootDir": "./src",
+    "outDir": "./dist"
+  }
+}
